@@ -1,7 +1,10 @@
 jQuery Tree Plugin ---- zTree  
 ============
 last verson :  3.5.35
+#更加官网案例，更新样式，使用font-awesome图标
 
+
+============
 
 **Donate to zTree** : http://www.treejs.cn/v3/donate.php
 
